@@ -525,7 +525,7 @@ body {
 }
 .carousel__slide:nth-of-type(11),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(11) {
-  background-image: url("/picture/jpg/22-11.jpeg");
+  background-image: url("/picture/carousel-gif/22-11.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
