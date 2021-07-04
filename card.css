@@ -124,7 +124,7 @@ img{
 
 /* 2 */
 .pro-card2{
-	margin-top: 25px;
+	margin-top: -20px;
 	width: 400px;
 	height: 450px;
 	padding: 30px;
@@ -191,7 +191,7 @@ img{
 
 /* 3 */
 .pro-card3{
-	margin-top: 0px;
+	margin-top: -20px;
 	width: 400px;
 	height: 450px;
 	padding: 30px;
@@ -259,7 +259,7 @@ img{
 
 /* 4 */
 .pro-card4{
-	margin-top: 25px;
+	margin-top: -20px;
 	width: 400px;
 	height: 450px;
 	padding: 30px;
