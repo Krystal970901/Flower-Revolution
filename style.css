@@ -103,7 +103,7 @@ body, html {
 
 .container {
 	min-height: 100vh;
-	width: 1000px;
+	width: 1200px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
