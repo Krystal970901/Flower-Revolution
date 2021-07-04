@@ -236,8 +236,6 @@ animation-delay: .3s;
  margin-left: -250px;
  transition: .3s ease;
  transition-property: background-color,color;
- position:relative;
- left:50%;
 
 }
 
