@@ -518,7 +518,7 @@ body {
 }
 .carousel__slide:nth-of-type(10),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(10) {
-  background-image: url("picture/carousel-gif/10.gif",url(picture/carousel-gif/10-back.jpg));
+  background-image: url("picture/carousel-gif/10.gif",url(picture/carousel-gif/10-back.jpg);
   background-repeat: no-repeat;
   background-size: contain,cover;
   background-position: center;
