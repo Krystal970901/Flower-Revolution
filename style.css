@@ -299,7 +299,8 @@ background-color: #ffc2a3;
 
 /* interactive Section */
 #interactive{
-	background-color: rgb(240, 220, 210)
+	/* background-color: rgb(240, 220, 210)_0705*/
+	background-color: #f0dcd2;
 	text-align: center;
 	justify-items: center;
 	text-align: center;
