@@ -317,7 +317,9 @@ background-color: #ffc2a3;
 	overflow: hidden;
 }
 #flo{
-	min-width: 100%;
+       /* min-width: 100%;*/
+	margin:0 auto;
+        width: 600px;
 	min-height: 100vh;
 }
 
